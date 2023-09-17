@@ -1,0 +1,21 @@
+body {
+    background-color: #f2f4f5;
+}
+.gridline {
+    background-color: transparent;
+    width: 90%;
+    height: 25vh;
+    margin-top: 30px;
+    align-items: center;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+.imBg {
+    background-color: #feb55f !important;
+}
+.sliderImg {
+    object-fit: contain;
+    width: 100%;
+    object-position: 15% 100%;
+}
